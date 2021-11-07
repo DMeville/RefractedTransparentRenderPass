@@ -1,7 +1,9 @@
 VIDEO TUTORIAL AND EXPLAINATION: https://www.youtube.com/watch?v=tyyn6NhH-MQ
+[![Video](https://img.youtube.com/vi/tyyn6NhH-MQ/0.jpg)](https://www.youtube.com/watch?v=tyyn6NhH-MQ)
+
 
 # WHAT
-![gif](https://i.imgur.com/uzTgcOK.gif)
+![gif](https://i.imgur.com/gdenvvL.gif)
 
 Custom render feature for URP that allows transparent objects to show up behind glass (with refraction)!
 
