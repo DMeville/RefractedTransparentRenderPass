@@ -61,3 +61,19 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+
+RefractedTransparent/Library/
+
+RefractedTransparent/Logs/
+
+RefractedTransparent/Packages/
+
+RefractedTransparent/UserSettings/
+
+RefractedTransparent/Temp/
+
+RefractedTransparent/obj/
+
+RefractedTransparent/Assets/AmplifyShaderEditor/
+
+RefractedTransparent/Assets/AmplifyShaderEditor.meta
