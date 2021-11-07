@@ -3,7 +3,7 @@ VIDEO TUTORIAL AND EXPLAINATION: https://www.youtube.com/watch?v=tyyn6NhH-MQ
 
 
 # WHAT
-![gif](https://i.imgur.com/gdenvvL.gif)
+![gif](https://github.com/DMeville/RefractedTransparentRenderPass/blob/main/Example.gif)
 
 Custom render feature for URP that allows transparent objects to show up behind glass (with refraction)!
 
